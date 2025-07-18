@@ -43,7 +43,7 @@ ScrollReveal().reveal('.home-contact h1, .about-img ',{ origin:'left' });
 ScrollReveal().reveal('.home-contact p, .about-content ',{ origin:'right' });
 
 const typed = new Typed('.multiple-text',{
-    strings:['Software Engineering Student','Frontend Developer'],
+    strings:['Software Engineer Fresh Graduate','Software Developer'],
     typespeed:30,
     backspeed:30,
     backDelay:2000,
